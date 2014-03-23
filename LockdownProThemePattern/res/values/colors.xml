@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_pattern_line">#33b5e5</color>
+    <color name="color_pattern_line_wrong">#e22410</color>
+    <color name="color_pattern_text">#ffffff</color>
+    <color name="color_pattern_background">#000000</color>
+
+</resources>
